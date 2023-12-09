@@ -1,7 +1,4 @@
 #!/bin/bash
 echo "hi  3 "
 #end
-#
-#fsd
-#
-#f
+newly modified line 
