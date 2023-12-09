@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "hiv nanna "
+echo "hi "
 #end
