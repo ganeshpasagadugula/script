@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "hi "
+echo "hi  3 "
 #end
